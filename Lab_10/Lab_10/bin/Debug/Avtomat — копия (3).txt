@@ -1,0 +1,22 @@
++
+01
+2
+3
+4
+|
++
+<S>
+<S2>
+<S3>
+<S4>
+<S5>
+<S6>
+#
++
+out[A]change(<S5>,<S6>)|shift out[B]change(<S2>,<S4>,<S6>)|shift cancel cancel cancel
+cancel out[B]change(<S2>,<S4>)|shift cancel pop|hold cancel
+cancel cancel out[C]pop|shift cancel cancel
+cancel cancel cancel change(<S6>)|hold cancel
+out[A]change(<S5>)|shift out[B]change(<S2>,<S4>)|shift cancel cancel cancel
+cancel cancel pop|hold out[D]pop|shift cancel
+cancel cancel cancel cancel ok

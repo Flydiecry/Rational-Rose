@@ -1,0 +1,21 @@
++
+a
+f
+b
+p
+c
+|
++
+<S>
+<B>
+b
+p
+c
+#
++
+change(<S>,c)|shift change(b,<B>,p,c)|shift cancel cancel cancel cancel
+cancel cancel change(<B>)|shift pop|hold cancel cancel
+cancel cancel pop|shift cancel cancel cancel
+cancel cancel cancel pop|shift cancel cancel
+cancel cancel cancel cancel pop|shift cancel
+cancel cancel cancel cancel cancel ok

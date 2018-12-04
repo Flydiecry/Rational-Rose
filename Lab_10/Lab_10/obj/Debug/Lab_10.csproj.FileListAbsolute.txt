@@ -1,0 +1,41 @@
+D:\ЗГИА\Компьютерная дискретная математика\2016\Лабораторные работы\Lab_10\Lab_10\bin\Debug\Lab_10.exe.config
+D:\ЗГИА\Компьютерная дискретная математика\2016\Лабораторные работы\Lab_10\Lab_10\bin\Debug\Lab_10.exe
+D:\ЗГИА\Компьютерная дискретная математика\2016\Лабораторные работы\Lab_10\Lab_10\bin\Debug\Lab_10.pdb
+D:\ЗГИА\Компьютерная дискретная математика\2016\Лабораторные работы\Lab_10\Lab_10\obj\Debug\Lab_10.csprojResolveAssemblyReference.cache
+D:\ЗГИА\Компьютерная дискретная математика\2016\Лабораторные работы\Lab_10\Lab_10\obj\Debug\Lab_10.exe
+D:\ЗГИА\Компьютерная дискретная математика\2016\Лабораторные работы\Lab_10\Lab_10\obj\Debug\Lab_10.pdb
+D:\User Files\Desktop\Учёба\Labs\КДМ\Лабораторные работы\Lab_10\Lab_10\bin\Debug\Lab_10.exe.config
+D:\User Files\Desktop\Учёба\Labs\КДМ\Лабораторные работы\Lab_10\Lab_10\obj\Debug\Lab_10.exe
+D:\User Files\Desktop\Учёба\Labs\КДМ\Лабораторные работы\Lab_10\Lab_10\obj\Debug\Lab_10.pdb
+D:\User Files\Desktop\Учёба\Labs\КДМ\Лабораторные работы\Lab_10\Lab_10\bin\Debug\Lab_10.exe
+D:\User Files\Desktop\Учёба\Labs\КДМ\Лабораторные работы\Lab_10\Lab_10\bin\Debug\Lab_10.pdb
+D:\User Files\Desktop\Учёба\Labs\КДМ\Лабораторные работы\Lab_10\Lab_10\obj\Debug\Lab_10.csprojResolveAssemblyReference.cache
+D:\User Files\Desktop\Lab_10\Lab_10\bin\Debug\Lab_10.exe.config
+D:\User Files\Desktop\Lab_10\Lab_10\obj\Debug\Lab_10.exe
+D:\User Files\Desktop\Lab_10\Lab_10\obj\Debug\Lab_10.pdb
+D:\User Files\Desktop\Lab_10\Lab_10\bin\Debug\Lab_10.exe
+D:\User Files\Desktop\Lab_10\Lab_10\bin\Debug\Lab_10.pdb
+D:\User Files\Desktop\Lab_10\Lab_10\obj\Debug\Lab_10.csprojResolveAssemblyReference.cache
+D:\User Files\Desktop\Учёба\Labs\КДМ\Lab_10\Lab_10\bin\Debug\Lab_10.exe.config
+D:\User Files\Desktop\Учёба\Labs\КДМ\Lab_10\Lab_10\obj\Debug\Lab_10.exe
+D:\User Files\Desktop\Учёба\Labs\КДМ\Lab_10\Lab_10\obj\Debug\Lab_10.pdb
+D:\User Files\Desktop\Учёба\Labs\КДМ\Lab_10\Lab_10\bin\Debug\Lab_10.exe
+D:\User Files\Desktop\Учёба\Labs\КДМ\Lab_10\Lab_10\bin\Debug\Lab_10.pdb
+D:\User Files\Desktop\Учёба\Labs\КДМ\Lab_10\Lab_10\obj\Debug\Lab_10.csprojResolveAssemblyReference.cache
+G:\Other Shit\Lab_10\Lab_10\bin\Debug\Lab_10.exe.config
+G:\Other Shit\Lab_10\Lab_10\obj\Debug\Lab_10.exe
+G:\Other Shit\Lab_10\Lab_10\obj\Debug\Lab_10.pdb
+D:\Archive\Новая папка\Other Shit\Lab_10\Lab_10\bin\Debug\Lab_10.exe.config
+D:\Archive\Новая папка\Other Shit\Lab_10\Lab_10\bin\Debug\Lab_10.exe
+D:\Archive\Новая папка\Other Shit\Lab_10\Lab_10\bin\Debug\Lab_10.pdb
+D:\Archive\Новая папка\Other Shit\Lab_10\Lab_10\obj\Debug\Lab_10.csprojResolveAssemblyReference.cache
+D:\Archive\Новая папка\Other Shit\Lab_10\Lab_10\obj\Debug\Lab_10.csproj.CoreCompileInputs.cache
+D:\Archive\Новая папка\Other Shit\Lab_10\Lab_10\obj\Debug\Lab_10.exe
+D:\Archive\Новая папка\Other Shit\Lab_10\Lab_10\obj\Debug\Lab_10.pdb
+D:\Учёба\Дискретные структуры\Lab-4\Lab_10\Lab_10\bin\Debug\Lab_10.exe.config
+D:\Учёба\Дискретные структуры\Lab-4\Lab_10\Lab_10\bin\Debug\Lab_10.exe
+D:\Учёба\Дискретные структуры\Lab-4\Lab_10\Lab_10\bin\Debug\Lab_10.pdb
+D:\Учёба\Дискретные структуры\Lab-4\Lab_10\Lab_10\obj\Debug\Lab_10.csprojResolveAssemblyReference.cache
+D:\Учёба\Дискретные структуры\Lab-4\Lab_10\Lab_10\obj\Debug\Lab_10.csproj.CoreCompileInputs.cache
+D:\Учёба\Дискретные структуры\Lab-4\Lab_10\Lab_10\obj\Debug\Lab_10.exe
+D:\Учёба\Дискретные структуры\Lab-4\Lab_10\Lab_10\obj\Debug\Lab_10.pdb

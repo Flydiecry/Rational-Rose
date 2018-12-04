@@ -1,0 +1,23 @@
++
+a
+*
+_
+1
+2
+|
++
+<E>
+<T>
+<P>
+<E1>
+<T1>
+2
+#
++
+change(<T>,<E1>)|hold cancel cancel change(<T>,<E1>)|hold cancel cancel
+change(<P>,<T1>)|hold cancel cancel change(<P>,<T1>)|hold cancel cancel
+pop|shift cancel cancel change(<E>,2)|shift cancel cancel
+cancel change(<T>,<E1>)|shift cancel cancel pop|hold pop|hold
+cancel pop|hold change(<P>,<T1>)|shift cancel pop|hold pop|hold
+cancel cancel cancel cancel pop|shift cancel
+cancel cancel cancel cancel cancel ok
